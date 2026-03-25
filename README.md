@@ -8,8 +8,9 @@ Download or clone this repository and open it in PlatformIO.
 
 ## Notes
 
-- This project is designed for Windows PCs using a Japanese keyboard layout and was tested on Windows 11.
-- Please check and modify the key mappings as needed to match your environment before use.
+- This project is intended for Windows PCs using a Japanese keyboard layout and was tested on Windows 11.
+- If Japanese IME is enabled, some commands may not work as expected.
+- Please review and adjust the key mappings as needed to match your environment before use.
 
 
 
